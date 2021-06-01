@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Lenovo",
+        "model": "Yoga"
+    },
+    {
+        "id": 2,
+        "name": "Lenovo",
+        "model": "Ideapad"
+    },
+    {
+        "id": 3,
+        "name": "Lenovo",
+        "model": "Thinkpad"
+    },
+    {
+        "id": 4,
+        "name": "HP",
+        "model": "Omen"
+    },
+    {
+        "id": 5,
+        "name": "Asus",
+        "model": "Rog"
+    },
+    {
+        "id": 6,
+        "name": "Macbook",
+        "model": "Macbook pro"
+    }
+]
